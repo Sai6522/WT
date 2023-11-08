@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?DOCTYPE catalogue SYSTEM "book.dtd"?>
+<catalogue>
+<book>
+<title>c</title>
+<author>Balaguruswamy</author>
+<isbn>1234</isbn>
+<publisher>pearson</publisher>
+<edition>4</edition>
+<price>$50</price>
+</book>
+<book>
+<title>c++</title>
+<author>Balaguruswamy</author>
+<isbn>123</isbn>
+<publisher>pearson</publisher>
+<edition>3</edition>
+<price>$55</price>
+</book>
+<book>
+<title>java</title>
+<author>Brett spell</author>
+<isbn>12</isbn>
+<publisher>Apress</publisher>
+<edition>2</edition>
+<price>$45</price>
+</book>
+</catalogue>
